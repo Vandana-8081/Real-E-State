@@ -8,8 +8,8 @@ Navigation bar (Home, About, Services, Property)
 
 Prominent "Registration" and "Login" buttons
 
-# 🔧 Technologies Used:
-   React.js
+# 🔧 Technologies Used:<br>
+   React.js <br>
    Express.js
    Mongodb
 Responsive design principles
