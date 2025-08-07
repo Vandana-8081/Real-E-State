@@ -15,4 +15,5 @@ Prominent "Registration" and "Login" buttons
 Responsive design principles  <br>
  CSS3  <br>
 Bootstrap
-
+# Purpose:
+Designed to attract prospective home buyers with an elegant, trust-building interface. <br> The "Make An Enquiry" CTA helps convert interest into leads.
