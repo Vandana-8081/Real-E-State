@@ -17,3 +17,5 @@ Responsive design principles  <br>
 Bootstrap
 # 🔗 Purpose:
 Designed to attract prospective home buyers with an elegant, trust-building interface. <br> The "Make An Enquiry" CTA helps convert interest into leads.
+
+ <img width="1894" height="902" alt="Screenshot 2025-08-07 095953" src="https://github.com/user-attachments/assets/9b8476b3-d8e2-49d1-9acf-62f7b39b0a3a" />
