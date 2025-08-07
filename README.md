@@ -10,9 +10,9 @@ Prominent "Registration" and "Login" buttons
 
 # 🔧 Technologies Used:<br>
    React.js <br>
-   Express.js
-   Mongodb
-Responsive design principles
- CSS3
+   Express.js  <br>
+   Mongodb  <br>
+Responsive design principles  <br>
+ CSS3  <br>
 Bootstrap
 
